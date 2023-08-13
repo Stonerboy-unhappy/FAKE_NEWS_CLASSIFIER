@@ -1,1 +1,1 @@
-## Dataset ->https://github.com/Stonerboy-unhappy/FAKE_NEWS_CLASSIFIER
+## Dataset -> https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
